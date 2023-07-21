@@ -1,0 +1,15 @@
+{
+  "contact": "@ben.so On Discord",
+  "templates": [
+    {
+      "name": "Tunic_by_TheGreatReview",
+      "sources": [
+        "https://raw.githubusercontent.com/Ducote/placetunic/main/tunichead.png"
+      ],
+      "x": 121,
+      "y": -277
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
